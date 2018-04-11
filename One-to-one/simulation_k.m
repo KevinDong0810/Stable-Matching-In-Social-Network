@@ -1,5 +1,5 @@
 function [AveSatis_k,AveCost_k,Phi_k,APL_k]=simulation_k(N, D, k_start,k_num,repeat_num)  
-% simulate the matching results in different networks against different averate degree k
+% simulate the matching results in different networks against different average degree k
 % Input: N: the node number of whole network; D: maximum depth
 %        k_start: the start value of k;     k_num: the number of different k values
 %        repeat_num: the number of repeated experiments for each k
